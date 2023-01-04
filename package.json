@@ -1,0 +1,12 @@
+{
+  "name": "eixes",
+  "version": "1.0.0",
+  "description": "a set of usefull javascript tools for front-end development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./app.d.ts"
+}
