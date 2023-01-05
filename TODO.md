@@ -1,0 +1,1 @@
+1. add 'scroll into veiw' available on github + getOffsetTop function
